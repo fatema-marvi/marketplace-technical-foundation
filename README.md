@@ -59,9 +59,5 @@ Order Schema (Sanity)
 •	`status`: Processing | Shipped | Delivered
 •	`shipping_id`: Unique shipping identifier
 •	`tracking_id`: Tracking number assigned after dispatch
-Diagram
-Below is a high-level flow diagram illustrating the route workflow:
 
-+-----------+     +----------------+     +------------+     +-----------+
-| Homepage  | --> | Product Page   | --> | Cart Page  | --> | Checkout  |
 
